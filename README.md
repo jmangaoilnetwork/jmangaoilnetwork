@@ -8,8 +8,7 @@ Cisco networking, cloud, security, and automation.
 
 ## 🎯 Currently Working On
 
-- 📚 CCNA 200-301 — studying via Jeremy's IT Lab &
-  NetworkChuck's Summer of CCNA 2026
+- 📚 CCNA 200-301 — studying via Jeremy's IT Lab
 - 🖥️ Building Cisco Packet Tracer home labs and
   documenting configurations
 - 🎓 Preparing for Seneca Polytechnic's Computer Systems
