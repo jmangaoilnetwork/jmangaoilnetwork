@@ -1,16 +1,79 @@
-## Hi there 👋
+# Hi, I'm Karl 👋
 
-<!--
-**jmangaoilnetwork/jmangaoilnetwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Network Engineer based in the US, working toward
+a career in hybrid network infrastructure — on-premises
+Cisco networking, cloud, security, and automation.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Currently Working On
+
+- 📚 CCNA 200-301 — studying via Jeremy's IT Lab &
+  NetworkChuck's Summer of CCNA 2026
+- 🖥️ Building Cisco Packet Tracer home labs and
+  documenting configurations
+- 🎓 Preparing for Seneca Polytechnic's Computer Systems
+  Technology (CTYC) program — target start: 2028
+
+---
+
+## 🏆 Certifications
+
+| Certification | Status | Target |
+|--------------|--------|--------|
+| CCNA 200-301 | 🔄 In Progress | Fall 2026 |
+| CompTIA Security+ | 📅 Planned | 2028 |
+| CCNP ENCOR (350-401) | 📅 Planned | 2029 |
+| CCNP ENSDWI (300-415) | 📅 Planned | 2029 |
+| AZ-700 Azure Network Engineer | 📅 Planned | 2030 |
+| Cisco DevNet Associate | 📅 Planned | 2030 |
+
+---
+
+## 🛠️ Skills & Tools
+
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
+![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+**Networking:**
+- VLANs, Trunking, STP, RSTP, EtherChannel
+- Inter-VLAN Routing (ROAS & Layer 3 Switch)
+- OSPF, EIGRP, RIP, Static Routing
+- FHRPs (HSRP, VRRP, GLBP)
+
+**In Progress:**
+- TCP/UDP, IPv6, ACLs, NAT, DHCP
+- Wireless Networking
+- Network Automation (Ansible, Python)
+- Microsoft Azure Networking
+
+---
+
+## 📂 Featured Repository
+
+### [CCNA-HomeLabs](https://github.com/jmangaoilnetwork/CCNA-HomeLabs)
+Packet Tracer labs built while studying for the CCNA 200-301.
+Each lab includes full device configurations, topology
+diagrams, and documented notes on what was configured
+and what was learned.
+
+---
+
+## 📈 Certification Roadmap
+2026  CCNA 200-301 ──────────────────── [In Progress]
+
+2028  CompTIA Security+ ─────────────── [Planned]
+
+2029  CCNP ENCOR + ENSDWI ────────────── [Planned]
+
+2030  AZ-700 + Cisco DevNet ─────────── [Planned]
+
+2031  Graduate Seneca Polytechnic ────── [Planned]
+
+2033  CCNP Security / CyberOps ──────── [Planned]
+
+---
+
+*Building toward a career in hybrid network infrastructure —
+where on-premises Cisco meets cloud and automation.*
