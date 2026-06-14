@@ -38,15 +38,17 @@ Cisco networking, cloud, security, and automation.
 
 **Networking:**
 - VLANs, Trunking, STP, RSTP, EtherChannel
-- Inter-VLAN Routing (ROAS & Layer 3 Switch)
-- OSPF, EIGRP, RIP, Static Routing
+- Inter-VLAN Routing (ROAS & Layer 3 Switch SVIs)
+- OSPF Single-Area (Area 0), EIGRP, RIP, Static Routing
 - FHRPs (HSRP, VRRP, GLBP)
+- OSPF loopback Router IDs, passive interfaces,
+  point-to-point network type, /30 link subnets
 
 **In Progress:**
 - TCP/UDP, IPv6, ACLs, NAT, DHCP
 - Wireless Networking
 - Network Automation (Ansible, Python)
-- Microsoft Azure Networking
+- Microsoft Azure Networking (AZ-700)
 
 ---
 
@@ -57,6 +59,12 @@ Packet Tracer labs built while studying for the CCNA 200-301.
 Each lab includes full device configurations, topology
 diagrams, and documented notes on what was configured
 and what was learned.
+
+| Project | Status |
+|---------|--------|
+| Inter-VLAN Routing via ROAS | ✅ |
+| Inter-VLAN Routing via Layer 3 Switch | ✅ |
+| OSPF Multi-Router (Area 0) | ✅ |
 
 ---
 
