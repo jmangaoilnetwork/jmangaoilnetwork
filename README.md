@@ -38,6 +38,7 @@ Cisco networking, cloud, security, and automation.
 **Networking:**
 - VLANs, Trunking, STP, RSTP, EtherChannel
 - Inter-VLAN Routing (ROAS & Layer 3 Switch SVIs)
+- EtherChannel integrated with L3 Switch topology
 - OSPF Single-Area (Area 0), EIGRP, RIP, Static Routing
 - FHRPs (HSRP, VRRP, GLBP)
 - OSPF loopback Router IDs, passive interfaces,
@@ -64,6 +65,7 @@ and what was learned.
 | Inter-VLAN Routing via ROAS | ✅ |
 | Inter-VLAN Routing via Layer 3 Switch | ✅ |
 | OSPF Multi-Router (Area 0) | ✅ |
+| EtherChannel + Inter-VLAN Routing (LACP) | ✅ |
 
 ---
 
