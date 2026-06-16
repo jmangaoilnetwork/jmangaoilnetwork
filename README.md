@@ -37,6 +37,9 @@ Cisco networking, cloud, security, and automation.
 
 **Networking:**
 - VLANs, Trunking, STP, RSTP, EtherChannel
+- STP/RSTP — Rapid PVST+, Root Bridge election,
+  per-VLAN load balancing, PortFast, BPDU Guard,
+  Root Guard, secondary root bridge failover
 - Inter-VLAN Routing (ROAS & Layer 3 Switch SVIs)
 - EtherChannel integrated with L3 Switch topology
 - OSPF Single-Area (Area 0), EIGRP, RIP, Static Routing
@@ -66,6 +69,7 @@ and what was learned.
 | Inter-VLAN Routing via Layer 3 Switch | ✅ |
 | OSPF Multi-Router (Area 0) | ✅ |
 | EtherChannel + Inter-VLAN Routing (LACP) | ✅ |
+| STP/RSTP (Rapid PVST+) | ✅ |
 
 ---
 
