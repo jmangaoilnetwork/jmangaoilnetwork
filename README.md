@@ -46,9 +46,14 @@ Cisco networking, cloud, security, and automation.
 - FHRPs (HSRP, VRRP, GLBP)
 - OSPF loopback Router IDs, passive interfaces,
   point-to-point network type, /30 link subnets
+- DHCP Relay (`ip helper-address`)
+- OSPF Default Route Redistribution (`default-information originate`)
+- Extended Named ACLs
+- L2 Switch Management Plane (SVI + `ip default-gateway`)
+- Multi-technology Network Integration
 
 **In Progress:**
-- TCP/UDP, IPv6, ACLs, NAT, DHCP
+- TCP/UDP, IPv6, NAT
 - Wireless Networking
 - Network Automation (Ansible, Python)
 - Microsoft Azure Networking (AZ-700)
@@ -70,6 +75,7 @@ and what was learned.
 | OSPF Multi-Router (Area 0) | ✅ |
 | EtherChannel + Inter-VLAN Routing (LACP) | ✅ |
 | STP/RSTP (Rapid PVST+) | ✅ |
+| Full-Stack Campus Network — EtherChannel + OSPF + DHCP Relay + ACL Integration | ✅ |
 
 ---
 
