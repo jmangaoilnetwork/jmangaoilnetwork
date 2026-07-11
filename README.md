@@ -1,5 +1,4 @@
 # Hi, I'm Karl 👋
-
 Aspiring Network Engineer based in the US, working toward
 a career in hybrid network infrastructure — on-premises
 Cisco networking, cloud, security, and automation.
@@ -7,7 +6,6 @@ Cisco networking, cloud, security, and automation.
 ---
 
 ## 🎯 Currently Working On
-
 - 📚 CCNA 200-301 — studying via Jeremy's IT Lab
 - 🖥️ Building Cisco Packet Tracer home labs and
   documenting configurations
@@ -17,7 +15,6 @@ Cisco networking, cloud, security, and automation.
 ---
 
 ## 🏆 Certifications
-
 | Certification | Status | Target |
 |--------------|--------|--------|
 | CCNA 200-301 | 🔄 In Progress | Fall 2026 |
@@ -30,31 +27,20 @@ Cisco networking, cloud, security, and automation.
 ---
 
 ## 🛠️ Skills & Tools
-
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
 ![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 **Networking:**
-- VLANs, Trunking, STP, RSTP, EtherChannel
-- STP/RSTP — Rapid PVST+, Root Bridge election,
-  per-VLAN load balancing, PortFast, BPDU Guard,
-  Root Guard, secondary root bridge failover
-- Inter-VLAN Routing (ROAS & Layer 3 Switch SVIs)
-- EtherChannel integrated with L3 Switch topology
-- OSPF Single-Area (Area 0), EIGRP, RIP, Static Routing
-- FHRPs (HSRP, VRRP, GLBP)
-- OSPF loopback Router IDs, passive interfaces,
-  point-to-point network type, /30 link subnets
-- DHCP Relay (`ip helper-address`)
-- OSPF Default Route Redistribution (`default-information originate`)
-- Extended Named ACLs
-- L2 Switch Management Plane (SVI + `ip default-gateway`)
-- Multi-technology Network Integration
+- VLANs, Trunking, STP/RSTP, EtherChannel (LACP/PAgP)
+- Inter-VLAN Routing (ROAS & L3 Switch SVIs)
+- OSPF Single-Area, Static Routing, EIGRP, RIP, FHRPs
+- DHCP Relay, Extended Named ACLs, NTP, SNMP, Syslog
+- SSH hardening, FTP/TFTP, L2 Switch Management Plane
+- Multi-technology network integration
 
 **In Progress:**
-- TCP/UDP, IPv6, NAT
-- Wireless Networking
+- IPv6, NAT, Wireless, QoS
 - Network Automation (Ansible, Python)
 - Microsoft Azure Networking (AZ-700)
 
@@ -76,23 +62,8 @@ and what was learned.
 | EtherChannel + Inter-VLAN Routing (LACP) | ✅ |
 | STP/RSTP (Rapid PVST+) | ✅ |
 | Full-Stack Campus Network — EtherChannel + OSPF + DHCP Relay + ACL Integration | ✅ |
+| Management Plane — SSH + Syslog + SNMP + FTP/TFTP | ✅ |
 
 ---
 
 ## 📈 Certification Roadmap
-2026  CCNA 200-301 ──────────────────── [In Progress]
-
-2028  CompTIA Security+ ─────────────── [Planned]
-
-2029  CCNP ENCOR + ENSDWI ────────────── [Planned]
-
-2030  AZ-700 + Cisco DevNet ─────────── [Planned]
-
-2031  Graduate Seneca Polytechnic ────── [Planned]
-
-2033  CCNP Security / CyberOps ──────── [Planned]
-
----
-
-*Building toward a career in hybrid network infrastructure —
-where on-premises Cisco meets cloud and automation.*
